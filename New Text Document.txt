@@ -1,0 +1,12 @@
+1.&&
+  ||
+  !
+
+
+2.string
+
+
+3bir methodun adini iki defe istifade etmek overloadingdir,  icindeki deyerlerin typelari ferqli olmalidir.
+
+
+
